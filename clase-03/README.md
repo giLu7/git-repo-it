@@ -36,9 +36,9 @@ git push origin clase03
 
 ### Tipos de Merge
 
-Fast-Fodward (No hay ningun cambio que se solape con lo que esta en la otra rama)
+Fast-Forward (No hay ningun cambio que se solape con lo que esta en la otra rama)
 
-Fast-Fodward - Unión automáticas (No hay ningun cambio que se solape con lo que esta en la otra rama)
+Fast-Forward - Unión automáticas (No hay ningun cambio que se solape con lo que esta en la otra rama)
 
 Recursiva -  Uniones automáticas (No hay colisiones de cambios)
 
