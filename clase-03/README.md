@@ -71,13 +71,13 @@ Me permite clonar cualquier repositorio que exista en GitHub, GitLab, etc
 ## Lo clona en la carpeta con el nombre react
 
 ```shh
-git clone ttps://github.com/facebook/react.git
+git clone https://github.com/facebook/react.git
 ```
 
 ## Clona en una carpeta en especifico
 
 ```shh
-git clone ttps://github.com/facebook/react.git <nombreCarpeta>
+git clone https://github.com/facebook/react.git <nombreCarpeta>
 ```
 # Fork
 Me permite crear un repo en mi cuenta de cualquier proyecto de Github
